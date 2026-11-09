@@ -1,0 +1,12 @@
+target/
+.idea/
+.DS_Store
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/terraform.tfvars
+terraform/app-src.zip
+terraform/examples/**/.terraform/
+terraform/examples/**/*.tfstate*
+terraform/examples/**/terraform.tfvars
+*.json.key
+key.json
