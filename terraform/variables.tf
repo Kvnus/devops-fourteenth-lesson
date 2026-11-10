@@ -70,8 +70,8 @@ variable "build_vm" {
   default = {
     cores         = 2
     memory        = 4
-    core_fraction = 100
-    disk_size     = 30
+    core_fraction = 50
+    disk_size     = 15
     preemptible   = false
   }
 }

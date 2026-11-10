@@ -10,3 +10,5 @@ terraform/examples/**/*.tfstate*
 terraform/examples/**/terraform.tfvars
 *.json.key
 key.json
+.terraform/**
+.terraform.lock.hcl
